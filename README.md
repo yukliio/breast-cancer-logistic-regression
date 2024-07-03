@@ -40,7 +40,7 @@ The dataset used in this project is the `breast_cancer.csv` file, which includes
 
 2. Execute the script to train and evaluate the logistic regression model:
    ```bash
-   python main.py
+   python logistic_regression.py
    ```
 
 3. The script will display the predicted results, a confusion matrix, and cross-validation outcomes.
